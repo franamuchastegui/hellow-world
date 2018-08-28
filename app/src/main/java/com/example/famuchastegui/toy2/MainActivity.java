@@ -27,7 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
    private  TextView errorMessageTextView;
 
-   private int numero;
+   //nuevo cambio
+   private int numero2;
 
    ProgressBar mLoading;
 
