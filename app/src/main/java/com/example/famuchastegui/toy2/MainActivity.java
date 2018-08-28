@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
    //nuevo cambio
    private int numero2;
+   private  int numero3;
 
    ProgressBar mLoading;
 
